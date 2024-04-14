@@ -24,5 +24,20 @@ int main (int argc, char *argv[])
         }
     }
 
+    printf("Another variant2:\n\n\n\n");
+
+    omp_set_num_threads(12);
+    #pragma omp parallel private(nthreads, tid)
+    {
+        tid = omp_get_thread_num();
+        printf("Hello World_2 from thread = %d\n", tid);
+
+        if (tid == 0)
+        {
+            nthreads = omp_get_num_threads();
+            printf("Number of threads_2 = %d\n", nthreads);
+        }
+    }
+
     return 0;
 }

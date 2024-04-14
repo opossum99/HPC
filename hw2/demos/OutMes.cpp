@@ -10,7 +10,7 @@ int main(int argc, char ** argv)
     #pragma omp parallel private(tid)
     {
         tid = omp_get_thread_num();
-        // std::cout << "cout " << tid << " hello world" << std::endl;
+        std::cout << "cout " << tid << " hello world" << std::endl;
     }
 
     // printf sometimes bad, depends on implementation
@@ -30,10 +30,18 @@ int main(int argc, char ** argv)
         {
             printf("critical %d hello world\n", tid);
             printf("WORLD!!!!------------------------------------------------------------------------------------------------------------------------------------------------------------\n");
-            /// try to use cout instead printf here
-            // std::cout << "cout " << tid << " hello world" << std::endl;
         }
     }
-
+    #pragma omp parallel private(tid)
+    {
+        tid = omp_get_thread_num();
+        
+        // force printfs to execute in sequential way    
+        #pragma omp critical
+        {
+            /// try to use cout instead printf here
+            std::cout << "cout_sequantial---------------" << tid << "------------------Hi, WORLD! HOW ARE YOU?" << std::endl;
+        }
+    }
     return 0;
 }

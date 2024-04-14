@@ -1,7 +1,6 @@
 #include <omp.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <malloc.h>
 
 /* compile with gcc -o PrivateShared -fopenmp PrivateShared.c */
 
