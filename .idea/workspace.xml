@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63ca021d-f70e-4794-bb1d-8e63f5c38966" name="Changes" comment="Asterisk" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2f30LRoyc7kMDxbfaynzkUQbco8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mikhailshlychkov/Documents/courses/HPC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63ca021d-f70e-4794-bb1d-8e63f5c38966" name="Changes" comment="" />
+      <created>1713014398123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713014398123</updated>
+      <workItem from="1713014399148" duration="11520000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713014430220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713014430220</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Play with demos">
+      <option name="closed" value="true" />
+      <created>1713100721474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713100721474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Play with demos">
+      <option name="closed" value="true" />
+      <created>1713100768690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713100768690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Play with demos">
+      <option name="closed" value="true" />
+      <created>1713100970787</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713100970787</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Programs with bugs">
+      <option name="closed" value="true" />
+      <created>1713104652376</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713104652376</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Programs with bugs">
+      <option name="closed" value="true" />
+      <created>1713112765531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713112765531</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Programs with bugs">
+      <option name="closed" value="true" />
+      <created>1713115692331</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713115692331</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sequential programs">
+      <option name="closed" value="true" />
+      <created>1713121809119</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713121809119</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Sequential programs">
+      <option name="closed" value="true" />
+      <created>1713121881789</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713121881789</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Sequential programs">
+      <option name="closed" value="true" />
+      <created>1713122072863</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713122072863</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Asterisk">
+      <option name="closed" value="true" />
+      <created>1713122120561</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713122120561</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Asterisk">
+      <option name="closed" value="true" />
+      <created>1713127395823</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713127395823</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="Play with demos" />
+    <MESSAGE value="Programs with bugs" />
+    <MESSAGE value="Sequential programs" />
+    <MESSAGE value="Asterisk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Asterisk" />
+  </component>
+</project>
