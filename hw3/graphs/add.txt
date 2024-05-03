@@ -1,0 +1,7 @@
+ping_pong:
+number of processes: 5
+number of iterations: 1000000
+
+cellular_automata:
+data size: 100000
+number of iterations: 4000
